@@ -3,7 +3,7 @@ title : Using Futures
 # Table of content
 plan:
   - title: Scala Futures
-    statement: Readme.md
+    statement: markdowns/future.md
 #  - title: Another Page
 #    statement: markdowns/another-page.md
 
