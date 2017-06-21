@@ -4,7 +4,10 @@
 
 # Hands-on Demo
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["src/main/scala/com/yourself/Universe.scala"], "command": "com.yourself.TestUniverse"})
+@[FileIo Future Demo]({
+    "stubs": ["src/main/scala/com/worldline/Universe.scala"],
+    "command": "com.worldline.TestUniverse"
+})
 
 
 
