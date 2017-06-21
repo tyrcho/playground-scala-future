@@ -1,4 +1,4 @@
-package com.worldline
+package com.worldline.future.using
 
 import org.scalatest._
 

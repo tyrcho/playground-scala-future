@@ -1,11 +1,10 @@
-title : Using Futures
+title : Scala Futures
 
-# Table of content
 plan:
-  - title: Scala Futures
-    statement: Readme.md
-#  - title: Another Page
-#    statement: markdowns/another-page.md
+  - title: Using Futures
+    statement: Using.md
+  - title: Creating Futures
+    statement: Creating.md
 
 
 # Settings for your programming projects and the associated Docker images
