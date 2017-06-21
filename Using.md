@@ -8,7 +8,6 @@ The second part will explain how to instanciate your own futures.
 
 @[FileIo Future Demo]({
     "stubs": [
-        "src/main/scala/com/worldline/future/using/FileIo.scala",
         "src/test/scala/com/worldline/future/using/TestUsing.scala"
      ],
     "command": "com.worldline.future.using.TestUsing"
