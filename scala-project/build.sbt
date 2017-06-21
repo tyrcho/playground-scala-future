@@ -1,4 +1,4 @@
-organization := "com.yourself"
+organization := "com.worldline"
 
 name := "scala-project"
 
