@@ -5,7 +5,10 @@
 # Hands-on Demo
 
 @[FileIo Future Demo]({
-    "stubs": ["src/main/scala/com/worldline/Universe.scala"],
+    "stubs": [
+        "src/main/scala/com/worldline/FileIo.scala",
+        "src/main/scala/com/worldline/FindAsync.scala"
+     ],
     "command": "com.worldline.TestUniverse"
 })
 
